@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "761431675730",
+    "firebase_url": "https://contactit-2b3bf.firebaseio.com",
+    "project_id": "contactit-2b3bf",
+    "storage_bucket": "contactit-2b3bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761431675730:android:ae34b74a9da84bea",
+        "android_client_info": {
+          "package_name": "ua.com.mexanik.contactit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761431675730-ik2fc346cpj0l9vkidi00l1roca2l6qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ua.com.mexanik.contactit",
+            "certificate_hash": "81f0a0e8efec5ce2c44d488121a07cd5644aedaa"
+          }
+        },
+        {
+          "client_id": "761431675730-cd78ps33fjeks1kdsbu9869k1jscvr3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC65iQmxSOvLPE4FYBnuPYnL8RWBrQNQ5k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761431675730-cd78ps33fjeks1kdsbu9869k1jscvr3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
